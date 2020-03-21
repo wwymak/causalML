@@ -72,6 +72,10 @@ _The Refactored Thinking in Machine Learning Course ends here_
 
 Graphs provide a language for composing, communicating, and reasoning about generative models, probability, and causality.  In this section, you will learn this language.  You will have the ability to use graph algorithms to describe and reason about the data's probability distributions.   
 
+March 7 https://zoom.us/rec/play/tJd7fuH--j83EtGV4QSDA_EqW43oKq2shnUW86ZYnUjnAHVVO1CiYbQTYus47SSo2GrhkAPdI097y7-x?continueMode=true
+
+March 14 https://zoom.us/rec/play/tJ15demprzI3TIGX5gSDVvd5W9S_LKOs1nQWr6YIxBq2V3MDNAKuZuYaN7bT8i5R4kqbt2488U4aaiRm?continueMode=true
+
 **Topics** 
 
 * DAGs, joint probability distributions, and conditional independence
