@@ -94,6 +94,8 @@ March 14 https://zoom.us/rec/play/tJ15demprzI3TIGX5gSDVvd5W9S_LKOs1nQWr6YIxBq2V3
 ### The Tao of Do; Modeling and Simulating Causal Interventions
 
 **Dates: March 21 and 28,  2020**
+March 21 https://zoom.us/rec/share/9f0oMLvX5EpLGNLh7X_ZXacsOpjoaaa80yFM_aYJnkzhoHUcrYQspOkbxTGlm0Pt
+March 28 https://zoom.us/rec/share/wulSP7C3x1xIBdbk1F3eBap7GajjT6a82yFL86EOyRwgLtSPllxQ4ePjYqtobiTJ
 
 An *intervention* is an action by humans or learning agents that change the data generating process, and thus the distribution underlying the training data.  If a machine learning model can predict the outcome of an intervention, it is by definition a causal model.  Even the most cutting-edge deep learning models can predict the outcomes of interventions unless they are also causal models.
 
