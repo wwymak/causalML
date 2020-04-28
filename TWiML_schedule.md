@@ -123,6 +123,11 @@ After this section, students will be able to build their first causal generative
 The modern practice of causal inference, particularly in the tech industry, is about estimating causal effects -- i.e. quantification of how much a cause affects an outcome.  After this section, you will be able to explain to colleagues when estimation is impossible even when they think they can crack it with enough data or a clever algorithm.  You will be able to stand your ground in discussions about causality with Ph.D. statisticians and economists at top tech companies.  You will have mastered the programmatic causal effect estimation.  You will have gained the foundation needed to go deep into standard estimation methods used in practice.
 
 **Dates: April 4, 11 and 18, 2020**
+April 4  https://zoom.us/rec/share/6ZcuMOH1qUJJfoHkyUicRbMqD93Zeaa8h3JI-aAMnhlAMxdRp3fw8A7z7VH0SFM4
+
+April 11 https://zoom.us/rec/share/2_xHf62pxGlLcIXXt3jOYLUMM5XDT6a81SAYrqZZxUY9m7v3VgG840OSVKDuDiWi (Access Password: N6@23685)
+
+April 18 https://zoom.us/rec/share/ufZRCLLV1G9IULfh8BGYXP8oL67KX6a82yRM_KEKzkt8lCigLat76RkKe-O_DdvY (Access Password: e9.7A@yc)
 
 **Topics**
 
@@ -147,6 +152,7 @@ The modern practice of causal inference, particularly in the tech industry, is a
 ## Section 4: Counterfactual machine learning
 
 **Dates: April 25 and May 2, 2020**
+April 25 https://zoom.us/rec/share/yZ1_NanT6V1OfJHywx_8aOkRMIDUeaa8hygfr6AMnkke4kEZ2VSGQZ7_4jjszgVg Password: 4l+&1hX+
 
 Counterfactual reasoning sounds like "I chose company A, and now I'm miserable but had I worked for company B, I would have been happy."  We make decisions and observe their causal consequences.  Then, based on our beliefs about the mechanisms of cause and effect in the world, we ask how would have things turned out differently if we had made a different decision.  We use this reasoning to improve our mental models for decision-making.  In contrast to typical machine learning algorithms that make decisions based exclusively on observed training data (things that *actually *happened), humans make decisions based both on observed data and imagined data (things that *might have* happened).  Future generations of machine learning need to incorporate counterfactual reasoning if they are to reason about the world as well as humans.
 
