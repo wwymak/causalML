@@ -154,6 +154,9 @@ April 18 https://zoom.us/rec/share/ufZRCLLV1G9IULfh8BGYXP8oL67KX6a82yRM_KEKzkt8l
 **Dates: April 25 and May 2, 2020**
 April 25 https://zoom.us/rec/share/yZ1_NanT6V1OfJHywx_8aOkRMIDUeaa8hygfr6AMnkke4kEZ2VSGQZ7_4jjszgVg Password: 4l+&1hX+
 
+Recording from May 2nd:
+https://us02web.zoom.us/rec/share/_exrAY36-jlIRNL3zWjaY7EZA5_-T6a81XMZqKUImUyIdU3Yh4i_6_zHO_H1Nkfm Password: 2x*z9#0X
+
 Counterfactual reasoning sounds like "I chose company A, and now I'm miserable but had I worked for company B, I would have been happy."  We make decisions and observe their causal consequences.  Then, based on our beliefs about the mechanisms of cause and effect in the world, we ask how would have things turned out differently if we had made a different decision.  We use this reasoning to improve our mental models for decision-making.  In contrast to typical machine learning algorithms that make decisions based exclusively on observed training data (things that *actually *happened), humans make decisions based both on observed data and imagined data (things that *might have* happened).  Future generations of machine learning need to incorporate counterfactual reasoning if they are to reason about the world as well as humans.
 
 After completing this section, you will be able to implement counterfactual reasoning algorithms in code.  This will prepare you to implement counterfactual reasoning algorithms in automated decision-making settings in industry, such as bandits and computational advertising. You will be qualified to tackle cutting-edge problems in reinforcement learning.  You will be able to evaluate machine learning algorithms for explainability and algorithmic bias.
@@ -176,6 +179,9 @@ After completing this section, you will be able to implement counterfactual reas
 ### Programming counterfactual reasoning into AI
 
 **Dates: May 9 and 15, 2020**
+
+Recording from May 9th:
+https://us02web.zoom.us/rec/share/1e5FLurC12FJHIXjx0PbYLN7Lrjhaaa80SFPqPMOyEfdbmErlop85-jTTT_9A0WJ Password: 7Y^fte83
 
 **Topics**
 
